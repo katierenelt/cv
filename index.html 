@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang= "en">
+  <head>
+    <mete charset="UTF-8"
+          <title><h1> katies website </h1></title>
+  </head>
+<body>
+  <img src="https://scontent.ffsd3-1.fna.fbcdn.net/v/t39.30808-6/320565534_1355151481987630_5657942541820253258_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=sRexCL2vqrYAX98ZiZr&_nc_ht=scontent.ffsd3-1.fna&oh=00_AfDnQ0ilPkDpHoLNneD0qK2VhIl29zTiqFRx9GzJ8Fuciw&oe=63E76A01" alt="katie's profile picture"
+  <p><em> im a<strong> poker dealer</strong></em> </p>
+<p> I deal poker at <a href="https://runaces.com/">Running Aces Casino</a> in Columbus, Minnesota. </p>
+  <hr>
+  <h3> Education </h3>
+  <ul> 
+    <li>Cedar Falls High School</li>
+    <li>Poker training class</li>
+   </ul>
+  <h3> <a href= "hobbies.html">my hobbies</a></h3>
+  <hr>
+  <h3><a href= "contact.html">contact me!</a> </h3>
+</body>
+</html>
